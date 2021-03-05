@@ -1,15 +1,16 @@
-id: opecha:P008139
+id: P008139
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1AC441
   title: 'ས་ཁང་བདག་དབང་སྐོར་གྱི་རྩོད་གླེང་། '
-  volume:
+  author: ''
+  volumes:
     fc9da19eb9544928adae8e2a832afaac:
       image_group_id: I2PD18370
       title: Volume 1 of sa khang bdag dbang skor gyi rtsod gleng /
       volume_number: 1
       total_pages: 222
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: 'ས་ཁང་བདག་དབང་སྐོར་གྱི་རྩོད་གླེང་། '
   author: ''
